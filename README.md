@@ -51,10 +51,7 @@ Se o seu prompt não reconhecer o comando mvn, devemos adicioná-lo no PATH:
 PATH=$PATH:onde_esta_o_bin_do_maven
 ```
 
-E tente executar o comando para gerar o projeto novamente.#### Requirements
-- All API responses must be JSON
-- Provide a README.md file with usage instructions (how to run, endpoints etc)
-- Provide a testing environment (heroku, docker, etc)
+E tente executar o comando para gerar o projeto novamente.
 
 ___
 ### Ambiente de Desenvolvimento

@@ -3,7 +3,7 @@
     <img src="https://mahout.apache.org/assets/asf_logo_white.svg" height="100px" alt="PlanD"/>
 </a>
 
-<h3>Sistema de Recomendação com apache Mahout</h3>
+## Sistema de Recomendação com Apache Mahout</h3>
 
 <a href="https://www.oracle.com/br/java/technologies/javase-downloads.html" target="_blank">
   <img src="https://img.shields.io/badge/devel-Java-brightgreen" alt="Java"/>
@@ -26,6 +26,7 @@
 ## Execução
 
 #### Configuração inicial do Maven
+
 No diretório em que deseja criar o projeto, execute o seguinte comando (no terminal):
 
 ```bash
@@ -33,7 +34,7 @@ mvn archetype:generate -DgroupId=dev.luanfernandes -DartifactId=sistema-de-recom
 ```
 
 
-#####Onde:
+##### Onde:
 
 - ```mvn archetype: generate ``` - cria projeto
 

@@ -3,7 +3,7 @@
     <img src="https://mahout.apache.org/assets/asf_logo_white.svg" height="100px" alt="PlanD"/>
 </a>
 
-## Sistema de Recomendação com Apache Mahout</h3>
+<h2>Sistema de Recomendação com Apache Mahout</h2>
 
 <a href="https://www.oracle.com/br/java/technologies/javase-downloads.html" target="_blank">
   <img src="https://img.shields.io/badge/devel-Java-brightgreen" alt="Java"/>

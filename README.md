@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.pland.com.br" target="_blank">
+<a href="https://www.apache.org/" target="_blank">
     <img src="https://mahout.apache.org/assets/asf_logo_white.svg" height="100px" alt="PlanD"/>
 </a>
 
